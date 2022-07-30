@@ -6,7 +6,7 @@
   Omid Baharifar (weblax)
 </h1>
 
-<h4 align="center">This is Omidi! A junior front end programmer, also known as Weblax!</h4>
+<h4 align="center">This is Omidi! A junior front end developer, also known as Weblax!</h4>
 
 ## My expertise
 
@@ -19,6 +19,8 @@
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 </p>
 
