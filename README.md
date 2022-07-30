@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/weblax.ir"><img src="./omid.jpg" alt="omidbaharifar" width="200" style ="border-radius: 50%;"></a>
+  <a href="https://instagram.com/weblax.ir"><img src="./omid.jpg" alt="omidbaharifar" width="200" style="border-radius: 50%"></a>
   <br>
   Omid Baharifar
 </h1>
